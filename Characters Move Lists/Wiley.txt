@@ -1,0 +1,38 @@
+
+
+Move list
+---------------
+Special
+===============
+Gou Hadouken : QCF + P
+
+Shakunetsu Gou Hadouken : HCB + P
+
+Gou Zankuu : QCF + P (in air)
+
+Gou Shoryuken : dp + P
+
+Tatsumaki Zankuu Kyakuu : QCB + K
+
+Tenma Kujin Kyaku : QCF + K (in air)
+       -pressing K repeatedly will inflict additional damage
+
+Hyakki Shuu : dp + K
+       -kuu chuu ken: P (during hyakki shuu)
+       -Kuu chuu kyakuu : K (during hyakki shuu)
+
+Ashura Senkuu : dp + 2P / dp + 2K (forward)
+                rev dp +2P / rev dp + 2K (backward)
+*Punches go farther than kicks
+
+----------------
+Super Arts
+================
+Messatsu Gou Shoryuu : QCFx2 + P
+
+Tenma Gou Zankuu : QCFx2 + P (in air)
+
+Messatsu Gou Hadou : QCBx2 + P
+ *Hold punch to charge for up to two (2) seconds
+
+Shun Goku Satsu: lp,lp,F,lk,hp

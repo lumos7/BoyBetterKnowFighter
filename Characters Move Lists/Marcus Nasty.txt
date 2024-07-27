@@ -1,0 +1,51 @@
+
+#################################################################################
+				    Move List
+#################################################################################
+
+/«««««««««««««««««««««««««««««««««««««««»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»\
+|	      	    		Basic  Moves      			        |
+|««««««««««««««««««««««««««««««««««««««»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»|
+|x- Elbow strike	a- low kick		F,a+b - throw 			|
+|y- medium punch	b- medium kick		F,x+y - Life Drain		|
+|z- straight 		c- high kick		Custom Counter: b+y while 	|
+|F+z- hook		start- taunt.				blocking	|
+|										|
+|Recovery Roll - hold B while player is down					|
+|"I don't think so" kick - hold F while player is down				|
+|Running Attacks - press any kick while running					|
+|««««««««««««««««««««««««««««««««««««««»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»|
+|	      	    		Supers  Moves      			        |
+|««««««««««««««««««««««««««««««««««««««»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»|
+|	Golpe		|	     Comando	  	|	Power/Lugar	|
+|===============================================================================|
+| Deadly wave		|	D, DB, B, x/y/z		|	---/standing	|
+| Tiger Upper		|	F, D, DF, x/y/z		|	---/standing	|
+| Knee bomb	 	|       F, D, DF, a/b/c		|	---/standing	|
+| Diving Kick	 	|	D, DF, F, x/y/z		|	---/air		|
+| Emperor Heaven Eye	|	D, DF, F, x		|	---/standing	|
+| Charging Stars	|	D, DF, F, y		|	---/standing	|
+| Sonic Boom		|	D, DF, F, z		|	---/standing	|
+| Chest Cannon		|	B(hold),F, z		|	---/standing	|
+| Flying Kick		|	F, F, a			|	---/standing	|
+| Teleport		|	B, F, a			|	---/standing	|
+| Teleport		|	B, F, b			|	---/standing	|
+| Teleport		|	B, F, c			|	---/standing	|
+| Teleport		|	B, F, x			|	---/standing	|
+| Teleport		|	B, F, y			|	---/standing	|
+| Power Charge		|	hold x+y+z		|	---/standing	|
+| Life Charge		|	hold a+b+c		|	> 100/standing	|
+|««««««««««««««««««««««««««««««««««««««»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»|
+|	      	    		Hyper  Moves      			        |
+|««««««««««««««««««««««««««««««««««««««»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»|
+|	Move		|	     Motion		|	Power/place	|
+|===============================================================================|
+| Darkness Illusion	|     	D, DF, F, x+y 		|	1000/standing	|
+| MB's Rage Punch	|     	D, DB, B, x+y 		|	1000/standing	|
+| Tiger Shoryu Reppa	|     	D, DF, F, a+b 		|	1000/standing	|
+| Psycho Crusher	|     	D, DB, B, a+b 		|	1000/standing	|
+| Tiger Shoot		|     	D, DF, F, y+z 		|	1000/standing	|
+\««««««««««««««««««««««««««««««««««««««»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»/
+
+
+

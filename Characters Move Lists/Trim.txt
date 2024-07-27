@@ -1,0 +1,74 @@
+
+=====================|Moves List|==========================
+
+F=forward
+B=back 
+U=up
+D=Down
+x=weak punck
+y=medium punch
+z=strong punch
+a=weak kick
+b=medium kick
+c=strong kick
+
+(N) Move for regular Trim
+(EX) Move for EX Trim
+
+
+Normal Moves----------------------------
+
+(N)Dash (You can dash in the air) - Double tap F
+-Can't dash in EX mode.... Basically, because you already are dashing. :p
+
+(N)BackDash - Double tap B
+
+Web Coccoon - B or F+y/z when close
+-Nice for setting up combos. 
+
+Trim Drop - B or F+y/z when close in air
+-Trim's Air Throw. 
+
+Symbiote Slam - B or F+b/c when close
+-Slam your foe into the ground. You can use the bounce to your advantage.
+
+Counter Attack - B,DB,D+attack while blocking
+-Costs 1 power lever to do. Punch and Kick do different attacks.
+
+Guarding Repel - two punches while blocking
+-Useful for getting breathing space.
+
+Roll Recover - B,DB,D+kick while falling from opponent's attack
+-Use this to roll and instantly get up, as opposed to being vulnerable by laying on the ground. 
+
+
+Special Moves---------------------------
+
+(N)Trim Fang - D, DF, F, punch
+-Stronger the button, the higher and farther they go.
+
+(N)Trim Rush - D, DF, F, kick
+-Trim uses the shadows to their advantage. Strength determines distance.
+
+(N/EX)Web Throw - F, DF, D, DB, B, punch
+-Strength determines angle. Tap Punch rapidly to slam them up to four times.
+
+(EX)Trim Lunge - D, DF, F, punch
+-Hungry? Eat an Opponent. Press Punch rapidly for more hits
+
+(EX)Symbiote Dive - D, DF, F, punch in air
+-A dive attack. Woohoo.
+
+(EX)Trim Bite - D, DF, F, kick
+-Imagine the Trim Rush without the range. Press Kick rapidly for more hits
+
+Super Moves-----------------------------
+
+(N/EX)Trim Web - D, DF, F, 2 punches at level 1
+-Trim flashes, jumps up and delivers a screenful of web. Get caught and Trim will beat you down.
+
+(N/EX)Death Bite - D, DF, F, 2 kicks at level 1
+-A pumped up Trim Rush.
+
+(N/EX)Mode Switch - B, D, DB, kick at level 1
+-Switch from Normal to EX mode or Vice Versa. (Only available using normal.cmd)

@@ -1,0 +1,84 @@
+
+ 
+   (Player 1)
+
+    *- DIRECTION KEYS
+
+		     (U)           U = up        DF = downforward
+    
+ 		 (B)  x  (F)       B = back      DB = downback
+  
+  		     (D)           F = Forward   UF = upforward
+
+		                   D = down      UB = upback
+
+     *- BUTTONS
+
+		 (x) (y) (z)       x = Light punch    y = Medium punch z = Fierce punch
+                   
+		 (a) (b) (c)       a = Light kick     b = Medium kick    c = Fierce kick
+
+		     (s)                              s = start
+
+ *** COMMANDS MOVES ***
+
+  ** THROWS **
+  Note: Throws are cancelable
+
+  Ground:
+  F, (y) [WHEN CLOSE]  - Back Stab			
+  F, (z) [WHEN CLOSE]  - Ride and Stab
+
+  Aerial:
+  F, (y) [WHEN CLOSE]  - Air Stab		
+  F, (z) [WHEN CLOSE]  - Air Stab
+ 
+  ** EXTRA BASIC ATTACKS **
+  
+  Ground:
+  Slide Slash = DF, z
+  Launcher    = c
+
+  Aerial:
+  Head Stomp  = D, c
+  Dive Kick   = D, b
+  
+  ** SPECIAL ATTACKS **
+  
+  Berserker Slash = D,DB,B, any punch button
+  - Logan dashes forward then slices the enemy. Has projectile invincibility properties 
+    during startup. Button used determines distance travelled.
+
+  Berserker Barrage = D,DF,F, any punch button
+  - Logan slashes like crazy. Button used determines the distance. Press punch buttons 
+    repeatedly for more hits.
+
+  Drill Claw = Y+A, any direction
+  - Logan spins and hits the enemy. Multi-Directional and can be done in the air.
+
+  Tornado Claw = F,D,DF, any punch button
+  - Logan slashes in an upward manner. Button used determines height. Press punch buttons 
+    repeatedly for more hits.
+
+  ** HYPER ATTACKS **
+  
+  Berserker Barrage X = D,DF,F, any 2 punch buttons
+  - Logan slashes MORE like crazy. 
+
+  Weapon X = F,D,DF, any 2 punch buttons
+  - Logan dashes forward and does a multiple hit attack which ends with a flashy X slash.
+    Move has very slow start up time. Has projectile invincibility properties during start up.
+  
+  Fatal Claw X = F,D,DF, any 2 kick buttons
+  - Logan leaps up while a big X slash appears and hits the enemy. Can also be done in the 
+    air.
+
+  Speed Factor = D,DB,B, any 2 punch buttons
+  - Logan slashes and shadows(clones) appear. Wolvie is faster now for a few game ticks 
+    (600-700).
+
+  Healing Factor = D,DB,B, any 2 kick buttons
+  - Wolverine simply uses his healing powers to heal some of his wounds. Restores a bit of life.
+
+  1337 X = ?????
+  - Secret... :P

@@ -1,0 +1,32 @@
+
+Lunge Punch - F and Fierce Punch
+
+Bearman throws a two handed punch across the screen.
+
+------------------------------------------------------------------
+
+Juggernaut Punch - B, DB, D, DF, F, Punch
+           
+Bearman speeds across the ground, and delivers a deadly punch that leaves his arm
+temporarily stuck in the ground.
+
+----------------------------
+
+Earthquake - F, DF, D, Punch
+
+Bearman slams the ground, and causes a rippling shockwave to surge forward.  The harder
+the punch button used, the farther it goes.
+
+----------------------------
+
+Juggernaut Splash - B, DB, D, DF, F, Kick
+
+Bearman flies into the air, attempting to land on top of his opponent.
+
+----------------------------
+
+Cyttorak Power Up - F, D, DF, F, 2 Punches
+
+After briefly shaking his fists and exclaiming, "Power up!", Bearman starts
+flashing red.  His next attack, if it hits, will do double normal damage.  Be warned, 
+however, that even if his attack misses, the effect will wear off.

@@ -1,0 +1,103 @@
+
+===============<Movelist>===============
+
+U - up          x - weak punch         a - weak kick
+D - down        y - medium punch       b - medium kick
+F - forward     z - strong punch       c - strong kick
+B - back        p - any punch          k - any kick
+s - start       2p- two punches        2k- two kicks
+
+(Air)- Move must be performed in the air.
+
+(EX)- Move with an EX version. EX moves are performed by pressing two punch/kick buttons.
+e.g.: Soul Fist - D, DF, F, p
+      EX Soul Fist - D, DF, F, 2p
+
+EX moves are more powerful than regular Special moves, but consume half of a power stock.
+
+
+
+<<<<<NORMAL>>>>>
+
+.Necro Desire: F + c
+   * Must be blocked high
+
+.Mysterious Arc: DF + z
+
+.Moon Tracer: F/B + 2p (near opponent)
+
+.Breast Anguish: F/B + 2k (near opponent)
+
+
+<<<<<SPECIAL>>>>>
+
+.Soul Fist: D, DF, F, p (EX)
+
+.Mid-Air Soul Fist: D, DF, F, p (Air)(EX)
+
+.Shadow Blade: F, D, DF, p (EX)
+
+.Vector Drain: F, DF, D, DB, B, p (EX)
+
+
+<<<<<Lv1 SUPERS>>>>>
+
+.Soul Phoenix: D, DF, F, D, DF, F, p
+
+.Mid-Air Soul Phoenix: D, DF, F, D, DF, F, p (Air)
+
+.Cardinal Blade: D, DF, F, D, DF, k
+
+.Valkyrie Turn: F, DF, D, DB, B, k
+
+
+<<<<<Lv2 SUPERS>>>>>
+
+.Finishing Shower: y, x, B, a, b
+
+
+<<<<<Lv3 SUPERS>>>>>
+
+.Darkness Illusion: x, x, F, a, z
+
+.Eternal Slumber: x, b, B, y, c
+   * Unblockable
+
+
+<<<<<MISCELANEOUS>>>>>
+
+.Fly Forward: F, F (hold)
+
+.Fly Backward: B, B (hold)
+
+.Fly Upward: U (Hold during Fly Forward or Fly Backward)
+
+.Fly Downward: D (Hold during Fly Forward)
+
+.Dodge: a + x
+
+.Dodge Attack: p/k (during Dodge)
+
+.Forward Sidestep: F + a + x
+
+.Backward Sidestep: B + a + x
+
+.Parry (can also be done in the air, and during guard):
+    - F (tap) -> high attacks
+    - D (tap) -> low attacks
+
+.Power Charge: b+y  (hold)
+
+.Dark Force: c+z
+
+.Zero Counter (Shadow Blade): B, DB, D, p  (during standing or crouching guard)
+
+.Zero Counter (Crouching Fierce): B, DB, D, k  (during standing or crouching guard)
+
+.Fall Recovery: 2p (while falling when hit)
+
+.Low Jump: U (tap)
+
+.High Jump: D, U
+
+.Chouhatsu: s (hold to delay)

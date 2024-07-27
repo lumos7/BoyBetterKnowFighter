@@ -1,0 +1,84 @@
+
+===============<Movelist>===============
+
+U - up          x - weak punch         a - weak kick
+D - down        y - medium punch       b - medium kick
+F - forward     z - strong punch       c - strong kick
+B - back        p - any punch          k - any kick
+s - start       2p- two punches        2k- two kicks
+
+(Air)- Move must be performed in the air.
+
+
+<<<<<NORMAL>>>>>
+
+.Yuri Ori: B + b (Air)
+
+
+<<<<<SPECIAL>>>>>
+
+.Ko'ou Ken (EX): D, DF, F, p
+
+.Yuri Chou Upper (EX): F, D, DF, p
+
+.Double Yuri Chou Upper (EX): F, D, DF, z (while landing from strong or EX Rebidee Chou Upper)
+
+.Triple Yuri Chou Upper: F, D, DF, z (while landing from EX Double Rebidee Chou Upper)
+
+.Saifa: D, DB, B, p
+
+.Hyakuretsu Binta: F, DF, D, DB, B, k
+
+
+<<<<<Lv1 SUPERS>>>>>
+
+.Hien Hou'ou Kyaku: D, DF, F, DF, D, DB, B, k
+
+.Haou Shoukou Ken: F, B, DB, D, DF, F, p
+
+.Hien Rekkou: D, DF, F, D, DF, p
+
+
+<<<<<Lv2 SUPERS>>>>>
+
+.Hien Chou Rekkou: D, DF, F, D, DF, 2p
+
+.Yuri Chou Enbu: x, x, F, a, z
+
+
+<<<<<Lv3 SUPERS>>>>>
+
+.Etsu Hien Hou'ou Kyaku: F, B, F, DF, D, DB, B, 2k
+
+
+<<<<<MISCELANEOUS>>>>>
+
+.Back Dash: B, B
+
+.Run: F, F (hold)
+
+.Dodge: a + x
+
+.Forward Roll: F + a + x
+
+.Parry (can also be done in the air, and during guard):
+    - F (tap) -> high attacks
+    - D (tap) -> low attacks
+
+.Power Charge: b+y  (hold)
+
+.Excel Combo: c+z (can also be done in the air)
+
+.Zero Counter: B, DB, D, p/k  (during standing or crouching guard)
+
+.Fall Recovery: 2p (while falling when hit)
+
+.Low Jump: U (tap)
+
+.High Jump: D, U
+
+.Long Low Jump: D, U (tap)
+
+.Chouhatsu: s
+  * Hold start to delay
+

@@ -1,0 +1,79 @@
+
+--------
+Specials|------------------------------------------------------
+--------
+
+Tsukami Hiza Geri			a+x (close)
+Jigoku Guruma				b+y (close)
+Jigoku Fuusha				b+y (AIR close)
+
+* Nata Otoshi Geri			hcf + a
+* Kama Barai Geri			hcf + b
+* Oosoto Mawashi Geri			hcf + ab
+* Inazuma Kakato Wari			Hold a kick During any "Geri" move
+
+Hadou Ken				qcf + any punch
+*Shouryuu Ken				f,d,df + any punch
+*Rasetsu Kyaku				f,d,df + any kick
+*Tatsumaki Senpuu Kyaku			qcb + any kick
+Kuuchuu Tatsumaki Senpuu Kyaku (AIR)	qcb + any kick
+
+
+*Used as an anywhere cancel during Maximum Mode
+
+-----------
+Supers / DM|---------------------------------------------------
+-----------
+
+		1 Level of power needed
+
+Shinryuu Ken				qcf, qcf + any kick
+	*Smash any kick button for multiple hits
+	*Max 16
+
+Kuzuryuu Reppa				qcb, qcb + any kick
+
+------
+Exceed|--------------------------------------------------------
+------
+
+Shinbu Messatsu				qcf, hcb + both punches
+	*Only once per round
+	*Life under 500.
+	*No Power required
+
+---------------------------------------------------------------
+			 -----------
+			|Psycho Mode|
+			 -----------
+
+	Press and Hold Start, then press any button while
+	selecting, to use 'Psycho mode'.
+
+--------
+Specials|------------------------------------------------------
+--------
+
+All 'Normal' attacks are also available in this mode
+
+*Ryusen Kyaku				b,d,db + any kick
+Oniyaki					b,d,db + any punch
+
+
+*Used as an anywhere cancel during Maximum Mode
+
+-----------
+Supers / DM|---------------------------------------------------
+-----------
+
+Shoryuu Reppa				qcf, qcf + any punch
+
+------
+Exceed|--------------------------------------------------------
+------
+
+Psycho Crusher				Charge b,f,b,f + both punches
+	*Only once per round
+	*Life under 500.
+	*No Power required
+	*Either this or Shinbuu Messatsu

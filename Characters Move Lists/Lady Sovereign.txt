@@ -1,0 +1,116 @@
+
+===============<Movelist>===============
+
+U - up          x - weak punch         a - weak kick
+D - down        y - medium punch       b - medium kick
+F - forward     z - strong punch       c - strong kick
+B - back        p - any punch          k - any kick
+s - start       2p- two punches        2k- two kicks
+
+(Air)- Move must be performed in the air.
+
+(EX)- Move with an EX version. EX moves are performed by pressing two punch/kick buttons.
+e.g.: Hadouken    - D, DF, F, p
+      EX Hadouken - D, DF, F, 2p
+
+EX moves consume half of a power stock.
+
+
+<<<<<NORMAL>>>>>
+
+.Sakura Jime: F/B + 2p (near opponent)
+   * Changes when against small chars
+
+.Sailor Shoot: F/B + 2k (near opponent)
+
+.Sailor Fly: F/B + 2k (near opponent)(Air)
+
+.Flower Kick: F + b
+
+
+<<<<<SPECIAL>>>>>
+
+.Hadouken: D, DF, F, p (EX)
+   * Tap punch to increase power
+
+.Tengyou Hadouken: D, DB, B, p (EX)
+   * Tap punch to increase power
+
+.Shou'ou Ken: F, D, DF, p (EX)
+
+.Shunpuu Kyaku: D, DB, B, k (EX)
+
+.Kuuchuu Shunpuu Kyaku: D, DB, B, k (Air)(EX)
+
+.Shunpuu Renkyaku: D, DB, B, k (during any Shunpuu Kyaku) (EX)
+
+.Sakura Otoshi: F, D, DF, k
+
+.Ouka Kyaku: D, DF, F, k (Air)(EX)
+
+.???
+
+
+<<<<<Lv1 SUPERS>>>>>
+
+.Shinkuu Hadouken: D, DF, F, D, DF, F, p
+
+.Shinkuu Tengyou Hadouken: D, DB, B, D, DB, B, p
+
+.Midare Zakura: D, DF, F, D, DF, k
+
+.Haru Ichiban: D, DB, B, D, DB, B, k
+
+
+<<<<<Lv2 SUPERS>>>>>
+
+.Haru Issen: D, DF, F, DF, D, DB, B, p
+
+.Shunpuu Chou Rasen: F, DF, D, DB, B, 2k
+
+
+<<<<<Lv3 SUPERS>>>>>
+
+.Shun Goku Satsu: x, x, F, a, z
+
+.Nekketsu Hadouken: D, DF, F, D, DF, F, 2p
+
+
+<<<<<MISCELANEOUS>>>>>
+
+.Back Dash: B, B
+
+.Run: F, F (hold)
+
+.Dodge: a + x
+
+.Forward Roll: F + a + x
+
+.Backward Roll: B + a + x
+
+.Parry (can also be done in the air, and during guard):
+    - F (tap) -> high attacks
+    - D (tap) -> low attacks
+
+.Power Charge: b+y  (hold)
+
+.Excel Combo: c+z  (can also be done in the air)
+
+.Zero Counter (Shou'ou Ken): B, DB, D, p  (during standing or crouching guard)
+
+.Zero Counter (Sweep): B, DB, D, k  (during standing or crouching guard)
+
+.Fall Recovery: 2p (while falling when hit)
+
+.Recovery Roll: 2k (while falling when hit)
+     * Hold F to go further
+
+.Low Jump: U (tap)
+
+.High Jump: D, U
+
+.Chouhatsu: s
+  * Hold forward for an alternate version
+
+.EX Chouhatsu: D, D, s
+

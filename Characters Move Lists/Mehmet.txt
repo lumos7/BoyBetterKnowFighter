@@ -1,0 +1,27 @@
+
+Specials:
+-Sempuu Retsu Zan/Cyclone Slash - D, DF, F, x/y/z
+-Fake Sempu Retsu Zan/Fake Cyclone Slash - D, DF, F, a/b/c
+-Kogetsu Zan /Crescent Moon Slash - F, D, DF, x/y/z
+-Resshin Zan /Earth Shake Slash - B, DB, B, x/y/z
+
+Hypers:
+-Tenha Hashin Ken/Flame of the Conqueror (3000 power) - F, DF, D, DB, B, F, z
+-Hiougi Tenha Fujin Zan/Supreme Heaven Sealed God Slash Lv1 (1000 power) - D, DF, F, D, DF, F, x
+-Hiougi Tenha Fujin Zan/Supreme Heaven Sealed God Slash Lv2 (2000 power) - D, DF, F, D, DF, F, y
+-Hiougi Tenha Fujin Zan/Supreme Heaven Sealed God Slash lv3 (3000 power) - D, DF, F, D, DF, F, z
+
+------------------
+-Modo Rasetsumaru:
+
+Specials:
+-Senpuu Retsu Zan: Setsu/Cyclone Slash: Temple - D, DF, F, x/y/z
+-Nagi Yaiba/Calm Blade - F, DF, F, x/y/z
+-Sempuu Ha/Whirlwind Wave - D, DF, F, a/b/c
+-Shitatari/Death Curse - D, DB, B, a/b/c
+
+Hypers:
+-Tenha Hashin Ken/Flame of the Conqueror (3000 power) - F, DF, D, DB, B, F, z
+-Tenha Dankuu Retsu Zan/Heaven Supreme Sky Sever Rip Slash Lv1 (1000 power) - D, DF, F, D, DF, F, x
+-Tenha Dankuu Retsu Zan/Heaven Supreme Sky Sever Rip Slash Lv2 (2000 power) - D, DF, F, D, DF, F, y
+-Tenha Dankuu Retsu Zan/Heaven Supreme Sky Sever Rip Slash Lv3 (3000 power) - D, DF, F, D, DF, F, z

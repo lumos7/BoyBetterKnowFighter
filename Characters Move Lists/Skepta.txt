@@ -1,0 +1,141 @@
+
+===============<Movelist>===============
+
+U - up          x - weak punch         a - weak kick
+D - down        y - medium punch       b - medium kick
+F - forward     z - strong punch       c - strong kick
+B - backward    p - any punch          k - any kick
+s - start       2p- two punches        2k- two kicks
+
+(Air)- Move must be performed in the air.
+
+
+<<<<<NORMAL>>>>>
+
+.Zugai Hasatsu: F + y
+
+.Senpuu Kyaku: F + b
+
+.Tenma Kuujin Kyaku: D + b (while jumping forward)
+
+.Seoi Nage: F/B + 2p (near opponent)
+
+.Tomoe Nage: F/B + a + b (near opponent)
+
+.Jigoku-guruma: F/B + b + c (near opponent)
+
+.Jigoku Fuusha: F/B + 2p/2k (near opponent)(Air)
+
+
+<<<<<SPECIAL>>>>>
+
+.Gou Hadou Ken: D, DF, F, p
+
+.Shakunetsu Hadou Ken: F, DF, D, DB, B, p
+   * Button pressed determines number of hits
+
+.Gou Shouryuu Ken: F, D, DF, p
+
+.Zankuu Hadou Ken: D, DF, F, p  (Air)
+
+.Tatsumaki Zankuu Kyaku: D, DB, B, k
+
+.Kuuchuu Tatsumaki Zankuu Kyaku: D, DB, B, k  (Air)
+
+.Ashura Senkuu Zenpou: F, D, DF, 2p/2k
+   * Punch travels further
+
+.Ashura Senkuu Kouhou: B, D, DB, 2p/2k
+   * Punch travels further
+
+.Zenpou Tenshin: D, DB, B, p
+   * Dodges throws; can be cancelled into Hyakki Shuu
+
+.Hyakki Shuu: F, D, DF, k
+
+.Hyakki Gou Zan: do nothing  (during Hyakki Shuu)
+
+.Hyakki Gou Shou: p  (during Hyakki Shuu)
+
+.Hyakki Gou Jin: a or b  (during Hyakki Shuu)
+
+.Hyakki Gou Dan: c  (during Hyakki Shuu)
+
+.Hyakki Gou Sai: any direction + p  (during Hyakki Shuu and near the opponent)
+
+.Hyakki Gou Tsui: any direction + k  (during Hyakki Shuu and near the opponent)
+
+.Tenma Shurettou: D, D, 2p or 2k
+
+
+<<<<<Lv1 SUPERS>>>>>
+
+.Messatsu Gou Hadou: D, DB, B, D, DB, B, p
+
+.Tenma Gou Zankuu: D, DF, F, D, DF, F, p  (Air)
+
+.Messatsu Gou Shouryuu: D, DF, F, D, DF, p
+
+.Messatsu Gou Rasen: D, DB, B, D, DB, B, k
+
+.Messatsu Gou Senpuu: D, DB, B, D, DB, B, k  (Air)
+
+.Tenma Shinzui Wari: D, DF, F, D, DF, F, k  (Air)
+   * Can also be done from Hyakki Shuu
+
+
+<<<<<Lv2 SUPERS>>>>>
+
+.Kongou Kokuretsu Zan: D, D, D, p
+
+.Tenshou Kaireki Jin: D, D, D, k
+
+*NEW*
+.Tenma Gou Zankuu Kouu (temp name): B, DB, D, DF, F, 2p  (Air)
+   * Press any kick to cancel and go to recovery state
+
+
+<<<<<Lv3 SUPERS>>>>>
+
+.Misogi: F, DF, D, DB, B, 2k
+
+.Shun Goku Satsu: x, x, F, a, z
+
+
+<<<<<MISCELANEOUS>>>>>
+
+.Back Dash: B, B
+
+.Forward Dash: F, F
+
+.Run: F, F (hold)
+
+.Dodge: a + x
+
+.Roll: F + a + x
+
+.Parry (can also be done in the air and/or during guard):
+    - F (tap) -> high attacks
+    - D (tap) -> low attacks
+
+.Power Charge: b+y  (hold)
+
+.Excel Combo: c+z  (can also be done in the air)
+   * When active, you can use Skepta's crouching fierce to start Aerial Raves
+
+.Zero Counter (Gou Shoryuu Ken): B, DB, D, p  (during standing or crouching guard)
+
+.Zero Counter (Sweep): B, DB, D, k  (during standing or crouching guard)
+
+.Fall Recovery: 2p (while falling when hit)
+
+.Recovery Roll: 2k (while falling when hit)
+   * Hold F to go further
+
+.Low Jump: U (tap)
+
+.High Jump: D, U
+
+.Chouhatsu: s
+   * Increases attack power
+
